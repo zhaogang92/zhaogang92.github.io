@@ -1,5 +1,6 @@
 ---
-title: Yet Another Sample Page
+title: Welcome!
 published: true
 ---
 
+Welcome to this blog!
